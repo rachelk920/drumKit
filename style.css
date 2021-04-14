@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url('./background.jpg') bottom center;
+  background: url('./bg.jpeg') bottom center;
   background-size: cover;
 }
 
@@ -34,18 +34,19 @@ body,html {
 
 .playing {
   transform: scale(1.1);
-  border-color: #ffc600;
-  box-shadow: 0 0 1rem #ffc600;
+  border-color: #7F055F;
+  box-shadow: 0 0 1rem #7F055F;
 }
 
 kbd {
   display: block;
   font-size: 4rem;
+  font-family: Permanent Marker;
 }
 
 .sound {
   font-size: 1.2rem;
   text-transform: uppercase;
   letter-spacing: .1rem;
-  color: #ffc600;
+  color: #5AD2F4;
 }
